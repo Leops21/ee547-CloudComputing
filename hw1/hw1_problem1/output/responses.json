@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://httpbin.org/status/200",
+    "status_code": 200,
+    "response_time_ms": 2147.52,
+    "content_length": 0,
+    "word_count": 0,
+    "timestamp": "2025-09-13T02:15:27Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/delay/2",
+    "status_code": 200,
+    "response_time_ms": 2533.37,
+    "content_length": 324,
+    "word_count": null,
+    "timestamp": "2025-09-13T02:15:29Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/404",
+    "status_code": null,
+    "response_time_ms": null,
+    "content_length": null,
+    "word_count": null,
+    "timestamp": "2025-09-13T02:15:32Z",
+    "error": "HTTP Error 404: NOT FOUND"
+  },
+  {
+    "url": "http://httpbin.org/json",
+    "status_code": 200,
+    "response_time_ms": 1471.56,
+    "content_length": 429,
+    "word_count": null,
+    "timestamp": "2025-09-13T02:15:34Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/html",
+    "status_code": 200,
+    "response_time_ms": 142.96,
+    "content_length": 3741,
+    "word_count": 638,
+    "timestamp": "2025-09-13T02:15:35Z",
+    "error": null
+  },
+  {
+    "url": "https://www.example.com",
+    "status_code": 200,
+    "response_time_ms": 274.03,
+    "content_length": 1256,
+    "word_count": 158,
+    "timestamp": "2025-09-13T02:15:36Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/500",
+    "status_code": null,
+    "response_time_ms": null,
+    "content_length": null,
+    "word_count": null,
+    "timestamp": "2025-09-13T02:15:36Z",
+    "error": "HTTP Error 500: INTERNAL SERVER ERROR"
+  },
+  {
+    "url": "http://invalid.url.that.does.not.exist.com",
+    "status_code": null,
+    "response_time_ms": null,
+    "content_length": null,
+    "word_count": null,
+    "timestamp": "2025-09-13T02:15:36Z",
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+  }
+]
