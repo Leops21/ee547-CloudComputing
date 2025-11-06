@@ -1,3 +1,0 @@
-# Part F: requirements.txt
-# PyTorch installed separately
-tqdm
