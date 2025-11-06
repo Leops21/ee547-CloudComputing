@@ -1,3 +1,0 @@
-http://httpbin.org/status/404 - HTTP Error 404: NOT FOUND
-http://httpbin.org/status/500 - HTTP Error 500: INTERNAL SERVER ERROR
-http://invalid.url.that.does.not.exist.com - <urlopen error [Errno -2] Name or service not known>
